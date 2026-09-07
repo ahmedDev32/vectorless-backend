@@ -1,0 +1,6 @@
+venv/
+.venv/
+media/
+*.log
+.env
+.git/
